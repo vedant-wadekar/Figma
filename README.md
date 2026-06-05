@@ -1,4 +1,5 @@
 # Figma
+<img width="730" height="359" alt="fist flow" src="https://github.com/user-attachments/assets/f249e0d8-6c45-400f-b8f4-c6c4281092a4" />
 
 # Student and Administration Management Portal
 
@@ -27,6 +28,10 @@ This project is a Student and Administration Management Portal designed in Figma
 - Interactive Prototypes
 
 ## Screenshots
+<img width="742" height="499" alt="satudent managenment figma" src="https://github.com/user-attachments/assets/f699758f-ad84-41c2-87d1-369844a27550" />
+
+
+
 
 ### User Flow
 ![User Flow](fist flow.jpg)
